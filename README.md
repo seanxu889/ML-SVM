@@ -1,2 +1,2 @@
 # ML-SVM
-hand written digits classify using R language
+Handwritten digits classify using Support Vector Machine in R language.
